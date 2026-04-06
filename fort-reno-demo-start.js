@@ -2,7 +2,7 @@ import { Shader, Aurora } from "shaders/react";
 
 export default function App() {
   return (
-    <div style={{ width: "100vw", height: "100vh", background: "#301934" }}>
+    <div style={{ width: "180vw", height: "100vh", background: "#301934" }}>
       <Shader>
         <Aurora
           colorA="#AA336A"
