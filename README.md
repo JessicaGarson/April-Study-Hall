@@ -15,3 +15,12 @@ Slides can be found here:
 - [Demo of Strudel](https://warm.strudel.cc/)
 - How I create songs
 - [Fort Reno](https://github.com/JessicaGarson/fort-reno)
+
+## Audience Takeaways
+
+By the end of the talk, attendees will:
+
+- Understand the basics of live coding
+- Get exposure to tools like Strudel
+- Learn more about my creative process
+- See examples of how coding and music can intersect in performance
